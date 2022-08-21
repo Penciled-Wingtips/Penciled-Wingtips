@@ -1,2 +1,2 @@
-- 👋 Hi, I’m Penciled Wingtips
-- i've got a drawing YouTube Channel
+# Hello, I’m Penciled Wingtips!
+- i like to draw! *(a lot)*
